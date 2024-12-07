@@ -1,3 +1,15 @@
+文章作者用通义千问32B代码模型来写作以上这个聊天桌面，32B代码模型效果确实强，代码一次就能写作好，输入API就可以直接聊天。桌面网址：需要科学上网。
+
+https://poe.com/preview/Y8WoWAXysuJvBlI9Vcx0
+
+DeepSeek申请API官方网站：
+
+https://api-docs.deepseek.com/zh-cn/
+
+
+
+
+
 <!DOCTYPE html>
 
 <html lang="zh-CN">
